@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cover"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"background-p",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dougl/Desktop/Web-Projects/silhouette-1304143_1920.jpg",
+		"/C/Users/Dougl/Desktop/Web-Projects/Above.html",
+		"/C/Users/Dougl/Desktop/Web-Projects/Above.css",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/Above.js",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsitehtml.html",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsite_bg.png",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsitejs.js",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsitecss.css",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsite.js",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsite.css",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/myWebsite.html",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/Douglasweb.html",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb/Douglasweb.css",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb.html",
+		"/C/Users/Dougl/Desktop/Web-Projects/Douglasweb.css",
+		"/C/Users/Dougl/Documents/dev.css",
+		"/C/Users/Dougl/Desktop/Web-Projects/Dev.html",
+		"/C/Users/Dougl/Documents/Douglasweb.js",
+		"/C/Users/Dougl/Documents/Douglasweb.css",
+		"/C/Users/Dougl/Documents/Douglasweb.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Above.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
